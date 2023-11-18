@@ -1,6 +1,6 @@
 ## Hi, I'm Tudor
 
-📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University
+-📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University
 🌱 I have a profound passion for software development and emerging technologies
 👀 My main focus right now is on blockchain and its ability to prove ownership of digital assets
 📫 Reach me here: tudor.cosma53@gmail.com
