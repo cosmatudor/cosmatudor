@@ -1,15 +1,7 @@
-# Hi, I'm Tudor 👋
+# 👋 Hi, I'm Tudor,
+a blockchain developer and M.Sc. Software Engineering student.
 
-📚 Currently a final-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University
-
-🌱 I have a profound passion for software development and emerging technologies
-
-👀 My main focus right now is on blockchain and its ability to prove ownership of digital assets
-
-📫 Reach me here: tudor.cosma53@gmail.com
-
-
-## 🔥 My Stats 🔥
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmatudor&layout=donut&theme=tokyonight)](https://github.com/cosmatudor)
 
